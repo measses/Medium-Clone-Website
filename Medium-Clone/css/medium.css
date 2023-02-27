@@ -1,0 +1,39 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+
+.bg-yellow{
+    background-color: #FFC017; 
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.logo{
+    width: 190px;
+    height: 15%;
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
+.no-hover:hover {
+    background-color: inherit !important;
+    color: inherit !important;
+    
+  }
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+
+.big-text {
+    font-size: 91px;
+    font: bolder;
+  }
+
+.big-p{
+    font-size: 25px;
+}
